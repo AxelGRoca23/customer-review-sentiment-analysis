@@ -95,7 +95,7 @@ As a result, **4 annotations were updated** to improve consistency across the da
 - The average annotation confidence was **4.36/5**, indicating generally high confidence across the classification process.
 
 ## Dashboard
-
+![Customer Review Sentiment Analysis Dashboard](images/Dashboard.png)
 The final Google Sheets dashboard includes:
 
 - Sentiment distribution
@@ -135,7 +135,7 @@ This project demonstrates practical experience with:
 - Analytical thinking
 
 ## Dataset
-
+[View the annotated dataset](data/sentiment-analysis-dataset.csv)
 The final annotated dataset contains 50 reviews and includes the following fields:
 
 `ID` · `Source` · `Category` · `Language` · `Customer Review` · `Label` · `Confidence` · `Reason`
