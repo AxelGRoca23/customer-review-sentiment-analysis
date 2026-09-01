@@ -96,6 +96,9 @@ As a result, **4 annotations were updated** to improve consistency across the da
 
 ## Dashboard
 ![Customer Review Sentiment Analysis Dashboard](images/Dashboard.png)
+### Interactive Version
+
+[View the full interactive dashboard and annotation workflow in Google Sheets](https://docs.google.com/spreadsheets/d/1iB0FdYdH9DxUzl3FtfqmOGOHTDRsVuvzgyMLea7k170/edit?usp=sharing)
 The final Google Sheets dashboard includes:
 
 - Sentiment distribution
